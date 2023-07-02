@@ -9,6 +9,7 @@ a .env file should contain
     1. HOST [hostname of mysql server (default: localhost)]
     2. DB_USERNAME [username to connect to mysql server]
     3. DB_PASSWORD [password to connect to mysql server]
+    4. PORT [port to run sinatra server on]
 
 ENDPOINTS:
 
