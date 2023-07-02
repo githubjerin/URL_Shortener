@@ -26,3 +26,7 @@ input[type="button"] {
     padding: 5px;
     margin-top: 15px;
 }
+
+#result {
+    font-family: monospace;
+}
